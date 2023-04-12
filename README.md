@@ -1,5 +1,15 @@
+<h1 align="center"> Hello, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> I'm Anant</h1>
+
+
 # 💫 About Me:
- Pronouns: He/His<br>🔭 I’m currently building Cpp Middleware.<br>🌱 I’m currently learning more about NLP.<br>👯 I’m looking to collaborate on Open Source Projects.<br>⚡ Fun fact: I spend almost 12 hours listening to songs every day.
+ Pronouns: He/His
+ <br>🔭 I’m currently building C++ Middleware for encrypted secure filesystem access. It operates on a need-to-access basis, preventing data leakage.
+ <br>🌱 I'm presently expanding my knowledge in the area of designing secure software and natural language processing.
+ <br>👯 I am seeking opportunities to contribute to open-source projects.
+ <br>⚡ Fun fact: I have a strong inclination towards reading and watching historical documentaries.
 
 
 ## 🌐 Socials:
