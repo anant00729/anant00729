@@ -13,7 +13,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anant-s-awasthy-230119134/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anant-s-awasthy-230119134/) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=anant00729&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
